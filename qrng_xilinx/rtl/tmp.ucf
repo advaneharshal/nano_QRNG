@@ -1,0 +1,9 @@
+
+NET "entropy_byte[0]"  LOC = "p32"  ;
+NET "entropy_byte[1]"  LOC = "p30"  ;
+NET "entropy_byte[2]"  LOC = "p29"  ;
+NET "entropy_byte[3]"  LOC = "p27"  ;
+NET "entropy_byte[4]"  LOC = "p26"  ;
+NET "entropy_byte[5]"  LOC = "p24"  ;
+NET "entropy_byte[6]"  LOC = "p23"  ;
+NET "entropy_byte[7]"  LOC = "p138"  ;

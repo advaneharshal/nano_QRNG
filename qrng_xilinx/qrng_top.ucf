@@ -1,0 +1,31 @@
+NET "clk"  LOC = "p84"  ;
+
+NET "rst_n"  LOC = "p1"  ;
+
+NET "photon_pulse"  LOC = "p45"  ;
+
+NET "uart_tx"  LOC = "p117"  ;
+
+NET "uart_rx"  LOC = "p116"  ;
+
+NET "led_activity"  LOC = "p33"  ;
+
+NET "led_error"  LOC = "p32"  ;
+
+NET "led_health_ok"  LOC = "p30"  ;
+
+NET "entropy_valid"  LOC = "p29"  ;
+
+NET "digit_pos[0]"     LOC=  "p127"  ;
+NET "digit_pos[1]"     LOC=  "p131"  ;
+NET "digit_pos[2]"     LOC=  "p132"  ;
+NET "digit_pos[3]"     LOC=  "p133"  ;
+
+NET "entropy_seg_out[0]"  LOC = "p134"  ;
+NET "entropy_seg_out[1]"  LOC = "p137"  ;
+NET "entropy_seg_out[2]"  LOC = "p138"  ;
+NET "entropy_seg_out[3]"  LOC = "p139"  ;
+NET "entropy_seg_out[4]"  LOC = "p140"  ;
+NET "entropy_seg_out[5]"  LOC = "p141"  ;
+NET "entropy_seg_out[6]"  LOC = "p142"  ;
+NET "entropy_seg_out[7]"  LOC = "p143"  ;
